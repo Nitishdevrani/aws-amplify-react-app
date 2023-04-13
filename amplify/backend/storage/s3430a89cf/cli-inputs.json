@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3430a89cf",
+  "policyUUID": "430a89cf",
+  "bucketName": "reactloginbucketforamplify",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

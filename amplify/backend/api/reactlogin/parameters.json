@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "reactlogin",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
