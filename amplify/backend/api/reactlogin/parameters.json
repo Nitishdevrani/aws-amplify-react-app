@@ -1,5 +1,6 @@
 {
   "AppSyncApiName": "reactlogin",
   "DynamoDBBillingMode": "PAY_PER_REQUEST",
-  "DynamoDBEnableServerSideEncryption": false
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-04-14T09:51:56.487Z"
 }
